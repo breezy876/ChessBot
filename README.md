@@ -10,3 +10,10 @@ Works with any chess website
 
 Can load any UCI engine for automatic playback using the UCI protocol
 
+**Technologies/Libraries/APIs used**
+
+CefSharp
+WinForms
+pax.UciEngine
+InputSimulator
+
